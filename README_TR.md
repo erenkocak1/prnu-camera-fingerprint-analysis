@@ -1,3 +1,5 @@
+[English Version](README_EN.md)
+
 PRNU Camera Fingerprint Analysis
 
 PRNU, PCE ve EXIF verilerini kullanarak bir fotoğrafın belirli bir kamera veya telefon tarafından çekilip çekilmediğini analiz eden masaüstü uygulaması.
