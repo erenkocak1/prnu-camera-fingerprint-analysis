@@ -10,7 +10,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Görüntü%20İşleme-green?logo=opencv)](https://opencv.org/)
-[![Lisans](https://img.shields.io/badge/Lisans-Belirtilmedi-lightgrey)](#lisans)
+[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg)](LICENSE)
 [![Durum](https://img.shields.io/badge/Durum-Deneysel-orange)](#adli-kullanım-uyarısı)
 
 [English](README.md) · [Türkçe](README_TR.md)
@@ -433,9 +433,7 @@ Nihai değerlendirme, diğer adli bulgular ve uzman görüşleriyle birlikte yap
 
 ## Lisans
 
-Bu projeye henüz açık kaynak lisansı eklenmemiştir.
-
-Bir lisans eklenene kadar kaynak kodun kullanılmasına, değiştirilmesine veya yeniden dağıtılmasına ilişkin izinler açık şekilde verilmiş değildir.
+Bu proje [MIT Lisansı](LICENSE) kapsamında yayımlanmaktadır.
 
 ---
 
