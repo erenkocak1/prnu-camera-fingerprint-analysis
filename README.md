@@ -10,7 +10,7 @@ A Python desktop application for experimentally analyzing whether a questioned p
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Experimental-orange)](#forensic-use-disclaimer)
 
 [English](README.md) · [Türkçe](README_TR.md)
@@ -221,4 +221,4 @@ Its results must not be used alone as definitive forensic evidence, expert testi
 
 ## License
 
-No open-source license has currently been assigned to this repository. Until a license is added, use, modification and redistribution rights are not explicitly granted.
+This project is licensed under the [MIT License](LICENSE).
